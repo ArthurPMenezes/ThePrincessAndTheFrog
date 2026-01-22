@@ -49,7 +49,7 @@ export default function MusicPlayer({ start }: { start: boolean }) {
         style={{ animationDuration: '12s' }}
         >
           <img
-            src="cover.jpg"
+            src="/cover.jpg"
             alt="Capa"
             className="w-full h-full object-cover"
           />
